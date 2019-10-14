@@ -1,5 +1,4 @@
-# -*- coding: utf-8 -*-
-
+# -*- coding: utf-8 -*
 import subprocess
 import sys
 from distutils.cmd import Command
